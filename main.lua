@@ -2,17 +2,52 @@
 
 local scripts = {
 	{
-		name = "Hela Hub",
+		name = 'Hela Hub <font color="#ff6600">(ЛУЧШЕЕ!)</font><font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
 		description = "Лучший универсальный скрипт",
 		code = function()
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/ZporticDev/Hela-Script/refs/heads/main/source"))()
 		end
 	},
 	{
-		name = "FlyGui V3",
+		name = 'FlyGui V3 <font color="#ff6600">(ЛУЧШЕЕ!)</font><font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
 		description = "Лучший скрипт на полёт",
 		code = function()
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+		end
+	},
+	{
+		name = 'infinite yield <font color="#ff6600">(ЛУЧШЕЕ!)</font><font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
+		description = "infinite yield Это универсальный скрипт тоесть для всех игр есть флай и тд",
+		code = function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+		end
+	},
+	{
+		name = 'Thunder hub<font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
+		description = "Thunder hub Это скрипт на мм2 хороший есть аим и вх и тд",
+		code = function()
+			loadstring(game:HttpGet("https://pastebin.com/raw/MUB4KeiF"))()
+		end
+	},
+	{
+		name = 'ESP<font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
+		description = "Обычный ВХ",
+		code = function()
+			loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()
+		end
+	},
+	{
+		name = 'Voidware<font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
+		description = "Voidware это скрипт на 99 ночей в лесу популярный скрипт и много функций",
+		code = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua", true))()
+		end
+	},
+	{
+		name = 'Tsunami<font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
+		description = "Tsunami это скрипт на counter blox хороший с бхоп и тд",
+		code = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/zenijux/Tsunami/refs/heads/main/scripts/couner%20blox.lua"))()
 		end
 	},
 }
