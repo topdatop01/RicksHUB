@@ -165,6 +165,7 @@ Title.TextSize = 14.000
 Title.TextStrokeTransparency = 0.000
 Title.TextWrapped = true
 Title.TextXAlignment = Enum.TextXAlignment.Left
+Title.RichText = true
 
 Execute.Name = "Execute"
 Execute.Parent = Exploit
@@ -196,6 +197,7 @@ Description.TextSize = 14.000
 Description.TextStrokeTransparency = 0.000
 Description.TextWrapped = true
 Description.TextXAlignment = Enum.TextXAlignment.Left
+Description.RichText = true
 
 -- Scripts:
 
