@@ -1,37 +1,37 @@
 [
-	{
-		"name": "Hela Hub <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "Лучший универсальный скрипт ХЫ",
-		"code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZporticDev/Hela-Script/refs/heads/main/source\"))()"
-	},
-	{
-		"name": "FlyGui V3 <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "Лучший скрипт на полёт",
-    	"code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
-	},
-	{
-		"name": "infinite yield <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "infinite yield Это универсальный скрипт тоесть для всех игр есть флай и тд",
-		"code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
-	},
-	{
-		"name": "Thunder hub<font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "Thunder hub Это скрипт на мм2 хороший есть аим и вх и тд",
-		"code": "loadstring(game:HttpGet(\"https://pastebin.com/raw/MUB4KeiF\"))()"
-	},
-	{
-		"name": "ESP<font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "Обычный ВХ",
-		"code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()"
-	},
-	{
-		"name": "Voidware<font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "Voidware это скрипт на 99 ночей в лесу популярный скрипт и много функций",
-		"code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()"
-	},
-	{
-		"name": "Tsunami<font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
-		"description": "Tsunami это скрипт на counter blox хороший с бхоп и тд",
-		"code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zenijux/Tsunami/refs/heads/main/scripts/couner%20blox.lua\"))()"
-	},
+    {
+        "name": "Hela Hub (ЛУЧШЕЕ!) (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "Лучший универсальный скрипт",
+        "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZporticDev/Hela-Script/refs/heads/main/source\"))()"
+    },
+    {
+        "name": "FlyGui V3 (ЛУЧШЕЕ!) (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "Лучший скрипт на полёт",
+        "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
+    },
+    {
+        "name": "infinite yield (ЛУЧШЕЕ!) (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "infinite yield — это универсальный скрипт, то есть для всех игр, есть полёт и т.д.",
+        "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
+    },
+    {
+        "name": "Thunder hub (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "Thunder hub — это скрипт для MM2, хороший, есть aim и wallhack и т.д.",
+        "code": "loadstring(game:HttpGet(\"https://pastebin.com/raw/MUB4KeiF\"))()"
+    },
+    {
+        "name": "ESP (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "Обычный wallhack",
+        "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP'))()"
+    },
+    {
+        "name": "Voidware (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "Voidware — это скрипт для 99 ночей в лесу, популярный скрипт с множеством функций",
+        "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua\", true))()"
+    },
+    {
+        "name": "Tsunami (ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)",
+        "description": "Tsunami — это скрипт для Counter Blox, хороший, с bhop и т.д.",
+        "code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zenijux/Tsunami/refs/heads/main/scripts/counter_blox.lua\"))()"
+    }
 ]
