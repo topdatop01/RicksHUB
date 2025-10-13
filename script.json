@@ -1,4 +1,4 @@
-{
+[
 	{
 		"name": "Hela Hub <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
 		"description": "Лучший универсальный скрипт ХЫ",
@@ -34,4 +34,4 @@
 		"description": "Tsunami это скрипт на counter blox хороший с бхоп и тд",
 		"code": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zenijux/Tsunami/refs/heads/main/scripts/couner%20blox.lua\"))()"
 	},
-}
+]
