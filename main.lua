@@ -1,6 +1,9 @@
 local http = game:GetService("HttpService")
 local scripts = game:HttpGet("https://raw.githubusercontent.com/topdatop01/RicksHUB/refs/heads/main/script.json")
 scripts = http:JSONDecode(scripts)
+for _, v in pairs(scripts)
+	v.name = v.name:gsub("(ЛУЧШЕЕ!)", '<font color="#FFA500">(ЛУЧШЕЕ!)</font>')
+end
 scripts = scripts:gsub("(ЛУЧШЕЕ!)", '<font color="#FFA500">(ЛУЧШЕЕ!)</font>')
 local RicksHUB = Instance.new("ScreenGui")
 local MainFrame = Instance.new("ImageLabel")
