@@ -167,7 +167,7 @@ local t=q:Clone()
 t.Title.Text=s.name
 t.Description.Text=s.description
 t.Execute.MouseButton1Click:Connect(function()
-local u=s.code
+local u=loadstring(s.code)
 u()
 end)
 t.Visible=true
