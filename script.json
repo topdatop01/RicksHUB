@@ -1,5 +1,5 @@
 {
-  {
+	{
 		"name" = "Hela Hub <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
 		"description" = "Лучший универсальный скрипт",
 		"code" = "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ZporticDev/Hela-Script/refs/heads/main/source\"))()"
@@ -7,7 +7,7 @@
 	{
 		"name" = "FlyGui V3 <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
 		"description" = "Лучший скрипт на полёт",
-    "code" = "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
+    	"code" = "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
 	},
 	{
 		"name" = "infinite yield <font color=\"#ff6600\">(ЛУЧШЕЕ!)</font><font color=\"#ff6600\">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>",
