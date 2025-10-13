@@ -52,7 +52,7 @@
 	},
 }--]]
 local http = game:GetService("HttpService")
-local scripts = http:GetAsync("https://raw.githubusercontent.com/topdatop01/RicksHUB/refs/heads/main/script.json")
+local scripts = game:HttpGet("https://raw.githubusercontent.com/topdatop01/RicksHUB/refs/heads/main/script.json")
 scripts = http:JSONDecode(scripts)
 local RicksHUB = Instance.new("ScreenGui")
 local MainFrame = Instance.new("ImageLabel")
