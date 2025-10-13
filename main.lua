@@ -3,6 +3,7 @@ local scripts = game:HttpGet("https://raw.githubusercontent.com/topdatop01/Ricks
 scripts = http:JSONDecode(scripts)
 for _, v in pairs(scripts)
 	v.name = v.name:gsub("(ЛУЧШЕЕ!)", '<font color="#FFA500">(ЛУЧШЕЕ!)</font>')
+	v.name = v.name:gsub("(ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)", '<font color="#FFA500">(ЛУЧШИЙ В СВОЕЙ КАТЕГОРИИ!)</font>')
 end
 scripts = scripts:gsub("(ЛУЧШЕЕ!)", '<font color="#FFA500">(ЛУЧШЕЕ!)</font>')
 local RicksHUB = Instance.new("ScreenGui")
