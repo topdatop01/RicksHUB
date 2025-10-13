@@ -52,7 +52,8 @@
 	},
 }--]]
 local http = game:GetService("HttpService")
-local scripts = 
+local scripts = http:GetAsync("https://raw.githubusercontent.com/topdatop01/RicksHUB/refs/heads/main/script.json")
+scripts = http:JSONDecode(scripts)
 local RicksHUB = Instance.new("ScreenGui")
 local MainFrame = Instance.new("ImageLabel")
 local ScrollingFrame = Instance.new("ScrollingFrame")
@@ -215,7 +216,8 @@ local function SAUP_fake_script() -- MainFrame.LocalScript
 		new.Title.Text = v.name
 		new.Description.Text = v.description
 		new.Execute.MouseButton1Click:Connect(function()
-			v.code()
+			local scripto = v.code
+			scripto()
 		end)
 		new.Visible = true
 		new.Parent = scriptsFrame
