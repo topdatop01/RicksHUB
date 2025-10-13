@@ -1,6 +1,6 @@
 -- Instances:
 
-local scripts = {
+--[[local scripts = {
 	{
 		name = 'Hela Hub <font color="#ff6600">(ЛУЧШЕЕ!)</font><font color="#ff6600">(ЛУЧШИЙ В СВОЕ КАТИГОРИИ!)</font>',
 		description = "Лучший универсальный скрипт",
@@ -50,7 +50,9 @@ local scripts = {
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/zenijux/Tsunami/refs/heads/main/scripts/couner%20blox.lua"))()
 		end
 	},
-}
+}--]]
+local http = game:GetService("HttpService")
+local scripts = 
 local RicksHUB = Instance.new("ScreenGui")
 local MainFrame = Instance.new("ImageLabel")
 local ScrollingFrame = Instance.new("ScrollingFrame")
